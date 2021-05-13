@@ -1,0 +1,16 @@
+C:\DenysM\projects\Kata\Kata\bin\Debug\net5.0\Kata.exe
+C:\DenysM\projects\Kata\Kata\bin\Debug\net5.0\Kata.deps.json
+C:\DenysM\projects\Kata\Kata\bin\Debug\net5.0\Kata.runtimeconfig.json
+C:\DenysM\projects\Kata\Kata\bin\Debug\net5.0\Kata.runtimeconfig.dev.json
+C:\DenysM\projects\Kata\Kata\bin\Debug\net5.0\Kata.dll
+C:\DenysM\projects\Kata\Kata\bin\Debug\net5.0\ref\Kata.dll
+C:\DenysM\projects\Kata\Kata\bin\Debug\net5.0\Kata.pdb
+C:\DenysM\projects\Kata\Kata\obj\Debug\net5.0\Kata.csprojAssemblyReference.cache
+C:\DenysM\projects\Kata\Kata\obj\Debug\net5.0\Kata.GeneratedMSBuildEditorConfig.editorconfig
+C:\DenysM\projects\Kata\Kata\obj\Debug\net5.0\Kata.AssemblyInfoInputs.cache
+C:\DenysM\projects\Kata\Kata\obj\Debug\net5.0\Kata.AssemblyInfo.cs
+C:\DenysM\projects\Kata\Kata\obj\Debug\net5.0\Kata.csproj.CoreCompileInputs.cache
+C:\DenysM\projects\Kata\Kata\obj\Debug\net5.0\Kata.dll
+C:\DenysM\projects\Kata\Kata\obj\Debug\net5.0\ref\Kata.dll
+C:\DenysM\projects\Kata\Kata\obj\Debug\net5.0\Kata.pdb
+C:\DenysM\projects\Kata\Kata\obj\Debug\net5.0\Kata.genruntimeconfig.cache
